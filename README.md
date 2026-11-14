@@ -38,6 +38,61 @@ agent-skills-hub/
         ├── glsl-shaders-particles/      # Fərdiləşdirilmiş güc qalxanları, lazerlər və GPU zərrəcikləri
         ├── spatial-audio-3d/            # Üçölçülü məkan səsi, addım səsləri və məsafəyə görə zəifləmə
         └── 3d-game-optimization/        # InstancedMesh, 60 FPS büdcəsi və GPU yaddaş təmizliyi (dispose)
+
+    │
+    └── ⚡ agentic-ecosystem/            # AVTONOM AI, MCP & SELF-HOSTED EKOSİSTEMİ (55 SKILL)
+        ├── bmad-method/                 # Breakthrough Agile AI — PM, Memar, Dev, QA multi-agent bölgüsü
+        ├── karpathy-skills/             # Andrej Karpathy minimalizm, sıfır fərziyyə və sıfır bloat prinsipləri
+        ├── gsd/                         # Get Shit Done (GSD) — Spekifikasiyalı icra və kontekst qorunması
+        ├── claudex-loop/                # Ralph/Claude avtonom özünü təshih edən rekursiv agent dövrü
+        ├── swarmchat/                   # Çoxagentli swarm ortaq lövhəsi, səsvermə və konsensus protokolu
+        ├── boeing-manual-style/         # ASD-STE100 Texniki İngilis dili — sıfır boşboğazlıq, dəqiq təlimatlar
+        ├── design-extract/              # Manavarya09/design-extract — DOM-dan W3C və Tailwind token çıxarılması
+        ├── inspo-mcp/                   # Canlı veb sayt referanslarını oxuyan dizayn ilhamı MCP serveri
+        ├── bencho-dev/                  # Bencho.dev interaktiv Framer Motion mikro-interaksiyaları
+        ├── uiverse/                     # UIverse.io açıq mənbəli CSS/Tailwind zəngin element kitabxanası
+        ├── transitions-dev/             # Transitions.dev CSS View Transitions və axıcı səhifə morfizmi
+        ├── ha-mcp/                      # Home Assistant MCP serveri ilə təbii dildə ağıllı ev nəzarəti
+        ├── context7/                    # Versiyaya uyğun rəsmi kitabxana sənədlərini kontekstə çəkən MCP
+        ├── sentry/                      # Sentry real-vaxt xəta diaqnostikası və stek izi təhlili
+        ├── playwright-cli/              # Yüksək dayanıqlı Playwright brauzer avtomatlaşdırması və vizual test
+        ├── treejs-game-skill/           # 3D Three.js brauzer oyunu üçün tam fizika, kamera və dövr mühərriki
+        ├── img2threejs/                 # 2D təsvirləri və mockupları interaktiv 3D WebGL səhnələrinə çevirmə
+        ├── ssd-moe-engine/              # 70B-405B MoE modellərini NVMe SSD-dən axınla işlətmə bələdçisi
+        ├── claude-make-an-anime/        # Çoxkadrli anime ardıcıllığı, xarakter vərəqələri və səhnə rejissoru
+        ├── ppt-master/                  # Apple Keynote səviyyəsində 16:9 geniş ekranlı peşəkar təqdimat dizaynı
+        ├── film-studio-skills/          # Kino ssenarisi, 3 nöqtəli işıqlandırma, kadr bucaqları və Foley audio
+        ├── understand-anything/         # Feynman metodu ilə mürəkkəb kod bazalarını ilk prinsiplərdən anlama
+        ├── matt-pocock-skills/          # Matt Pocock Type-Level TypeScript və Zod sxem mühəndisliyi
+        ├── invidious/                   # İzləməsiz və API kvotasız YouTube axtarışı və transkript çıxarılması
+        ├── localsend/                   # Şəbəkə daxilində cihazlararası LocalSend protokolu ilə fayl paylaşımı
+        ├── stirling-pdf/                # Self-hosted Stirling-PDF ilə lokal PDF birləşdirmə, OCR və təmizləmə
+        ├── immich/                      # Immich foto/video arxivi, semantik CLIP axtarışı və üz tanıma API-si
+        ├── we-promise-sure/             # Sure (Maybe Finance) şəxsi büdcə və maliyyə hesabatı platforması
+        ├── haven/                       # Ev şəbəkəsində məxfi lokal LLM serveri və fərdi agent habı
+        ├── opencode-manager/            # OpenCode agentlərinin git worktree-lərdə təcrid olunmuş sessiya paneli
+        ├── isponsorblocktv/             # Apple TV və smart TV-lərdə YouTube sponsor bloklarını avtomatik ötürmə
+        ├── zapfast/                     # Yüksək performanslı ultra-yüngül (150MB) yerli Rust WhatsApp müştərisi
+        ├── pdf-craft/                   # Paged Media və Typst ilə nəşriyyat keyfiyyətində sənəd tərtibatı
+        ├── pi-alert/                    # Lokal şəbəkəyə qoşulan yeni cihazları aşkarlayan təhlükəsizlik keşikçisi
+        ├── pangolin/                    # Identity-aware təhlükəsiz tərs proksi və internet tunelləri
+        ├── phosphene/                   # Vizual sintezator, audio-reaktiv qrafika və GLSL şeyderləri
+        ├── open-generative-ai/          # Açıq çəkili təməl modellərinin yerli yerləşdirilmə bələdçisi
+        ├── openseo/                     # Core Web Vitals və JSON-LD sxemli texniki axtarış optimizasiyası
+        ├── appflowy/                    # AppFlowy yerli Notion alternativi, cədvəllər və qeydlər ekosistemi
+        ├── openproject/                 # OpenProject Gantt yol xəritələri və çevik tapşırıq idarəetməsi
+        ├── cal-diy/                     # Cal.com self-hosted şəxsi görüş təqvimi və webhook avtomatlaşdırması
+        ├── apkstart/                    # Android APK dekompilyasiyası, manifest analizi və sideload alətləri
+        ├── univer/                      # Google Sheets/Docs alternativi kətan üzərində ofis mühərriki
+        ├── anydoc/                      # PDF, DOCX, Markdown və XLSX arasında universal format konvertoru
+        ├── archify/                     # C4 arxitektura diaqramları və sistem dizayn sənədləşməsi
+        ├── orca/                        # Addım-addım mühakimə zənciri və 3D kəsmə (slicing) avtomatlaşdırması
+        ├── basemode/                    # Editorial minimalist dizayn sistemi və neytral tipoqrafiya
+        ├── doop/                        # Bəyannaməli verilənlər təkrarının aradan qaldırılması (deduplication)
+        ├── nota/                        # Texniki müəlliflər üçün diqqət dağıtmayan lokal qeyd sistemi
+        ├── career-ops/                  # ATS-optimallaşdırılmış CV, motivasiya məktubu və STAR müsahibə hazırlığı
+        ├── 500-ai-agents-projects/      # 500+ süni intellekt agenti layihəsi və arxitektura nümunələri
+        └── billion-context/             # Nəhəng kontekst pəncərələrinin strateji idarəetmə metodologiyası
 ```
 
 ---
